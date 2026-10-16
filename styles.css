@@ -51,6 +51,14 @@ h3 {
   color: var(--heading);
 }
 
+h4 {
+  margin: 1.4em 0 0.5em;
+  font-size: 1em;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--muted);
+}
+
 hr {
   margin: 48px 0 24px;
   border: 0;
